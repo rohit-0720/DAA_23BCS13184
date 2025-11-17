@@ -13,7 +13,6 @@ public:
                 p++;
                 cnt++;
             }
-            
             if (b == buses.back()) {
                 int candidate;
                 
